@@ -7,16 +7,16 @@
 
 ---
 
-### 🌼 About Me
+###  About Me
 I’m an active graduate student and **Co-founder of AI Fantastic**, developing projects that blend **AI + IoT + Full-Stack + Agents**.  
 Currently exploring **Recommendation Systems with Explainable AI**, experimenting with **interactive WebGL graphics**, and serving as a **Teaching Assistant** for *Intermediate Computing with Data Structures*.
 
-💡 Curious mind • Aesthetic coder • UI/UX designer • Idea generator  
+ Curious mind • Aesthetic coder • UI/UX designer • Idea generator  
 *I love turning ideas into experiences that feel alive.*
 
 ---
 
-### 🌱 A Little About Me
+###  A Little About Me
 I love connecting logic with aesthetics — whether that’s designing neural systems that explain themselves, creating intuitive visual interfaces, or prototyping smart IoT agents.  
 Co-founding **AI Fantastic** has made me believe AI research can be fun, social, and beautifully interactive 🌼  
 
@@ -36,7 +36,7 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-### ☀️ What I’m Working On
+###  What I’m Working On
 -  Building **explainable recommendation systems** that blend reasoning with personalization.  
 -  Developing **IoT-driven full-stack prototypes** that make AI practical.  
 -  Expanding **AI Fantastic**, a student-led research & creativity hub for intelligent systems.  
@@ -44,8 +44,8 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-### 🎯 Achievements & Projects
-| 🌟 Project | 📝 Description |
+###  Achievements & Projects
+|  Project |  Description |
 |------------|----------------|
 |  **Knowledge Distillation in Image Classification** | Teacher–student CNNs combining real + synthetic data. |
 |  **AI for All (Image Colorization)** | Reviving grayscale images using deep learning. |
@@ -55,14 +55,14 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-### ⚡ GitHub Stats 
+###  GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranathivutla30&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_rank=false" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivutla30&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
-### 🤖 Connect & Explore
+###  Connect & Explore
 <p align="center">
   <a href="https://github.com/Pranathivutla30">
     <img src="https://img.shields.io/badge/GitHub-Pranathivutla30-2E2E2E?style=for-the-badge&logo=github&logoColor=D8B4E2"/>
