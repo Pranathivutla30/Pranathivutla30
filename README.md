@@ -44,24 +44,7 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 
 ---
 
-###  Achievements & Projects
-|  Project |  Description |
-|------------|----------------|
-|  **Knowledge Distillation in Image Classification** | Teacher–student CNNs combining real + synthetic data. |
-|  **AI for All (Image Colorization)** | Reviving grayscale images using deep learning. |
-|  **Explainable Movie Recommender System** | Hybrid LightFM + NCF with LIME & SHAP insights. |
-|  **IoT + Cybersecurity Projects** | Automatic power-off and energy-aware smart plugs. |
-|  **Graphics & WebGL Experiments** | Visual art meets code — WebGPU demos and 3D scenes. |
 
----
-
-###  GitHub Stats 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranathivutla30&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&hide_rank=false" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranathivutla30&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
 ###  Connect & Explore
 <p align="center">
   <a href="https://github.com/Pranathivutla30">
