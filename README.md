@@ -11,18 +11,18 @@
 I’m an active graduate student and **Co-founder of AI Fantastic**, developing projects that blend **AI + IoT + Full-Stack + Agents**.  
 Currently exploring **Recommendation Systems with Explainable AI**, experimenting with **interactive WebGL graphics**, and serving as a **Teaching Assistant** for *Intermediate Computing with Data Structures*.
 
- Curious mind • Aesthetic coder • UI/UX designer • Idea generator  
+ Curious mind • Aesthetic coder • Full stack Devloper •UI/UX Designer • Idea generator  
 *I love turning ideas into experiences that feel alive.*
 
 ---
 
 ###  A Little About Me
 I love connecting logic with aesthetics — whether that’s designing neural systems that explain themselves, creating intuitive visual interfaces, or prototyping smart IoT agents.  
-Co-founding **AI Fantastic** has made me believe AI research can be fun, social, and beautifully interactive 🌼  
+Co-founding **AI Fantastic** has made me believe AI research can be fun, social, and beautifully interactive   
 
 ---
 
-### ⚡ Tech Universe
+###  Tech Universe
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -59,6 +59,6 @@ Co-founding **AI Fantastic** has made me believe AI research can be fun, social,
 </p>
 
 <p align="center">
-  ✨ <b style="color:#5B4B8A;">“I create intelligent systems that feel human.”</b> ✨
+   <b style="color:#5B4B8A;">“I create intelligent systems that feel human.”</b> ✨
 </p>
 
